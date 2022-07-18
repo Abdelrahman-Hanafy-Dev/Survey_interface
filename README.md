@@ -20,4 +20,4 @@ The goal of building this UI is to show how flutter can be used to build complex
 
 ## Original design
 
-![original-design](https://fidev.io/wp-content/uploads/2020/01/plane-1.gif)
+![original-design](readme_assets/design.gif)
